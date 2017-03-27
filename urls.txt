@@ -1,0 +1,5 @@
+pentest guide
+https://artkond.com/2017/03/23/pivoting-guide/
+
+reverse shell
+http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
