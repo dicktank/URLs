@@ -3,3 +3,7 @@ https://artkond.com/2017/03/23/pivoting-guide/
 
 reverse shell
 http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
+wmi study
+https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-windows-management-instrumentation.pdf
+https://www.fireeye.com/blog/threat-research/2017/03/wmimplant_a_wmi_ba.html
